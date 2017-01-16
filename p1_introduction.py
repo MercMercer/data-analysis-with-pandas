@@ -1,5 +1,5 @@
 #! python3
-#p1_Introduction.py - Introduces the Pandas module
+#p1_introduction.py - Introduces the Pandas module
 
 import pandas as pd
 import pandas_datareader.data as wb
